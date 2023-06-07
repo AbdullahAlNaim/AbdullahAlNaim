@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucker000&show_icons=true&theme=transparent)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js, nodejs, mongodb,postgres,python,html,css)](https://skillicons.dev)
 <!--
 **Bucker000/Bucker000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)**
