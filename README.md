@@ -3,9 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucker000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python)](https://skillicons.dev)
 
-
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)-->
 
 <!--
 **Bucker000/Bucker000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
