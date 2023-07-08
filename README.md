@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python)](https://skillicons.dev)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bucker000)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bucker000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Bucker000/Bucker000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
