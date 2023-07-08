@@ -6,6 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python)](https://skillicons.dev)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **Bucker000/Bucker000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
