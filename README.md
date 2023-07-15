@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucker000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python,mongodb,express,react,nodejs,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python,mongodb,express,react,nodejs,vim,neovim)](https://skillicons.dev)
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)-->
 
