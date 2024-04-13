@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,python,mongodb,express,vue,react,nodejs)](https://skillicons.dev)
 
-<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,nodejs,postgres,python)](https://skillicons.dev)-->
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,django,nodejs,postgres,python)](https://skillicons.dev)-->
 
 <!--
 **AbdullahAlNaim0/AbdullahAlNaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
