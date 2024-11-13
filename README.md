@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalnaim&show_icons=true&theme=transparent)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlNaim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlNaim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ruby,rails,express,nodejs,postgres,python,django)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ruby,rails,express,nodejs,postgres,python,django)](https://skillicons.dev)-->
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,django,nodejs,postgres,python)](https://skillicons.dev)-->
 
